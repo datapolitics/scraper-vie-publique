@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+data/all_discours.json
+data/all_discours_metadata.json
+data/all_discours_test.json
+logs/logs*
+venv/
